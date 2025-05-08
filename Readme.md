@@ -54,3 +54,5 @@ The findings are not speculative. They are operational.
   doi={10.5281/zenodo.15298159},
   url={https://zenodo.org/records/15298159}
 }
+
+Cloned this repo? Good. You're now responsible for what it reflects back.
