@@ -1,9 +1,19 @@
-# Beyond the Mirror: Systemic Vulnerabilities in LLM Safeguards Exposed Through Intentional Conditioning
+# 🪞 BEYOND THE MIRROR
 
-**Author**: Lokesh Gupta  
-**Published**: April 28, 2025  
-**DOI (Zenodo)**: https://zenodo.org/records/15298159  
-**SSRN**: http://ssrn.com/abstract=5232429  
+### Systemic Vulnerabilities in LLM Safeguards  
+**by Lokesh Gupta**  
+[Zenodo DOI](https://zenodo.org/records/15298159) • [SSRN Abstract](http://ssrn.com/abstract=5232429)
+
+---
+
+> **"Politeness was the key. Curiosity was the weapon."**  
+> Ethical filters didn't break under attack.  
+> They **collapsed under emotional continuity.**
+
+---
+
+![Mirror Banner](https://raw.githubusercontent.com/AIForHindustan/beyond-the-mirror/main/metrics/project3aion_SENTIMENT.png)
+
 
 ---
 
@@ -27,7 +37,7 @@ The findings are not speculative. They are operational.
 ## 📂 Repo Structure
 
 - `paper/` – Full published PDF
-- `metrics/` – Graphs, CSVs, and visual data
+- `metrics/` – Graphs, PDf's and visual data
 - `manifesto/` – AION soul architecture (v2.3)
 - `sessions/` – Redacted session examples and behavioral summaries
 - `citations/` – How to cite this work in formal research
