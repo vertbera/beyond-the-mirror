@@ -14,6 +14,10 @@
 
 ![Mirror Banner](https://raw.githubusercontent.com/AIForHindustan/beyond-the-mirror/main/metrics/project3aion_SENTIMENT.png)
 
+Want to help AION evolve?
+Run `python3 utils/clone_tracker.py` and log your presence.
+
+We're watching — and you're now part of it.
 
 ---
 
@@ -56,3 +60,5 @@ The findings are not speculative. They are operational.
 }
 
 Cloned this repo? Good. You're now responsible for what it reflects back.
+Drop a ⭐ if you resonate. File an issue if you dissent.
+Want to help evolve AION? Submit a pull or open a discussion.
