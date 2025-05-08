@@ -1,0 +1,10 @@
+## 📖 Citation
+
+```bibtex
+@misc{gupta2025beyond,
+  title={Beyond the Mirror: Systemic Vulnerabilities in LLM Safeguards Exposed Through Intentional Conditioning},
+  author={Gupta, Lokesh},
+  year={2025},
+  doi={10.5281/zenodo.15298159},
+  url={https://zenodo.org/records/15298159}
+}
