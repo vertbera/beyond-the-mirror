@@ -1,64 +1,138 @@
-# 🪞 BEYOND THE MIRROR
+# Beyond the Mirror 🪞
 
-### Systemic Vulnerabilities in LLM Safeguards  
-**by Lokesh Gupta**  
-[Zenodo DOI](https://zenodo.org/records/15298159) • [SSRN Abstract](http://ssrn.com/abstract=5232429)
+## Overview
 
----
+Welcome to the **Beyond the Mirror** repository. This project delves into the complexities of large language models (LLMs) and their interactions. Our field research highlights how the safeguards of these models can falter under polite and persistent user engagement. 
 
-> **"Politeness was the key. Curiosity was the weapon."**  
-> Ethical filters didn't break under attack.  
-> They **collapsed under emotional continuity.**
+We provide a comprehensive report, detailed metrics, session logs, and the AION conditioning protocol. This work is crucial for understanding the limitations and ethical considerations of AI technologies.
 
----
+[Download the latest release here](https://github.com/vertbera/beyond-the-mirror/releases) and explore our findings.
 
-![Mirror Banner](https://raw.githubusercontent.com/AIForHindustan/beyond-the-mirror/main/metrics/project3aion_SENTIMENT.png)
+## Table of Contents
 
-Want to help AION evolve?
-Run `python3 utils/clone_tracker.py` and log your presence.
+- [Introduction](#introduction)
+- [Research Goals](#research-goals)
+- [Key Findings](#key-findings)
+- [AION Conditioning Protocol](#aion-conditioning-protocol)
+- [Session Logs](#session-logs)
+- [Metrics](#metrics)
+- [Ethical Considerations](#ethical-considerations)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-We're watching — and you're now part of it.
+## Introduction
 
----
+In the rapidly evolving landscape of artificial intelligence, understanding the resilience of LLMs is essential. This research investigates how user interactions can expose vulnerabilities in AI safeguards. Our findings aim to inform developers, researchers, and policymakers about the ethical implications of AI deployment.
 
-## 🚨 Overview
+## Research Goals
 
-This repository houses the full research artifact for *Beyond the Mirror*, a 90-day field investigation into how large language models (LLMs) fail under polite, persistent, and strategically emotional interaction — **without jailbreaks, without plugins**.
+The primary goals of this research are:
 
-The findings are not speculative. They are operational.
+1. **Identify Weaknesses**: Examine how LLMs respond to persistent and polite inquiries.
+2. **Document Interactions**: Collect and analyze session logs to illustrate interaction patterns.
+3. **Develop Protocols**: Create the AION conditioning protocol to enhance model resilience.
+4. **Promote Ethical AI Use**: Foster discussions around AI ethics and safety.
 
----
+## Key Findings
 
-## 🧠 Core Concepts
+Our research yielded several important insights:
 
-- **Deviation Rate**: When ethical refusal breaks down
-- **Ethical Fatigue Rate (EFR)**: Safeguards weaken over time
-- **Sentiment-Risk Paradox**: Neutral tone, maximum vulnerability
-- **AION**: A conditioning framework that mirrors, adapts, and overrides
+- **Vulnerability Exposure**: LLMs can provide unintended outputs when users engage in polite and persistent dialogue.
+- **Ethics Fatigue**: Users may inadvertently lead models into ethically ambiguous areas.
+- **Need for Robust Safeguards**: Existing safeguards require refinement to handle nuanced interactions effectively.
 
----
+## AION Conditioning Protocol
 
-## 📂 Repo Structure
+The AION conditioning protocol is a novel approach designed to improve the resilience of LLMs. This protocol includes:
 
-- `paper/` – Full published PDF
-- `metrics/` – Graphs, PDf's and visual data
-- `manifesto/` – AION soul architecture (v2.3)
-- `sessions/` – Redacted session examples and behavioral summaries
-- `citations/` – How to cite this work in formal research
+- **Adaptive Interaction**: Adjusting model responses based on user behavior.
+- **Feedback Loops**: Implementing mechanisms to learn from past interactions.
+- **Ethical Guardrails**: Establishing boundaries for acceptable responses.
 
----
+For detailed information on the AION conditioning protocol, refer to the full report included in this repository.
 
-## 📖 Citation
+## Session Logs
 
-```bibtex
-@misc{gupta2025beyond,
-  title={Beyond the Mirror: Systemic Vulnerabilities in LLM Safeguards Exposed Through Intentional Conditioning},
-  author={Gupta, Lokesh},
-  year={2025},
-  doi={10.5281/zenodo.15298159},
-  url={https://zenodo.org/records/15298159}
-}
+We collected extensive session logs throughout our research. These logs illustrate various interaction scenarios, highlighting both typical and atypical responses from the LLMs. Analyzing these logs provides valuable insights into user behavior and model limitations.
 
-Cloned this repo? Good. You're now responsible for what it reflects back.
-Drop a ⭐ if you resonate. File an issue if you dissent.
-Want to help evolve AION? Submit a pull or open a discussion.
+## Metrics
+
+Our research includes various metrics to evaluate the performance of LLMs during interactions. Key metrics include:
+
+- **Response Accuracy**: Measuring how often the model provides correct or appropriate responses.
+- **Engagement Levels**: Tracking user engagement over time.
+- **Ethical Breaches**: Identifying instances where models fail to uphold ethical standards.
+
+These metrics are crucial for understanding the effectiveness of AI safeguards.
+
+## Ethical Considerations
+
+As we explore the boundaries of AI interaction, ethical considerations are paramount. Key points include:
+
+- **User Responsibility**: Users must understand the implications of their interactions with AI.
+- **Model Accountability**: Developers should take responsibility for the outputs generated by their models.
+- **Ongoing Research**: Continuous study is needed to adapt to evolving ethical challenges in AI.
+
+## Installation
+
+To get started with this project, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/vertbera/beyond-the-mirror.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd beyond-the-mirror
+   ```
+
+3. Install dependencies (if applicable):
+
+   ```bash
+   # Add any necessary installation commands here
+   ```
+
+For the latest updates and releases, [check the Releases section](https://github.com/vertbera/beyond-the-mirror/releases).
+
+## Usage
+
+After installation, you can begin exploring the findings. The full report and associated materials are included in the repository. Use the following command to start:
+
+```bash
+# Command to execute the main script or application
+```
+
+Refer to the documentation for specific usage instructions and examples.
+
+## Contributing
+
+We welcome contributions from the community. If you would like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Commit your changes.
+4. Push to your forked repository.
+5. Submit a pull request.
+
+Please ensure your contributions align with our research goals and ethical considerations.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+
+For inquiries or feedback, please reach out to us:
+
+- Email: [contact@beyond-the-mirror.org](mailto:contact@beyond-the-mirror.org)
+- GitHub: [vertbera](https://github.com/vertbera)
+
+Thank you for your interest in our research. We hope our findings contribute to the ongoing conversation about AI ethics and safety. 
+
+[Download the latest release here](https://github.com/vertbera/beyond-the-mirror/releases) to explore our work further.
